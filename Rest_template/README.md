@@ -1,0 +1,1 @@
+Pusta aplikacja restowa
